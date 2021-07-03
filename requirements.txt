@@ -1,0 +1,8 @@
+flask==2.0.1
+flask_jwt_extended==4.2.1
+flask
+flask_jwt_extended
+werkzeug
+mysql-connector-python
+flask_mail
+flask_cors

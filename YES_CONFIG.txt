@@ -1,0 +1,6 @@
+---------- run container database
+-- docker run -p 3306:3306 --name database_cnw database_cnw  mysqld --default-authentication-plugin=mysql_native_password
+---------- run container backend
+-- docker run -it --rm --name backend_cnw -p 5001:5000 backend_cnw
+
+++++++++++++++++++++++++++
